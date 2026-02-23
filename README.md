@@ -1,4 +1,4 @@
-# Rust Security Lesson: Name Confusion Attacks
+# Name Confusion Attacks in Rust 🦀
 
 ## Concept Summary
 
